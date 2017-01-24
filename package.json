@@ -1,5 +1,5 @@
 {
-  "name": "OrgChart",
+  "name": "orgchart",
   "version": "0.0.2",
   "description": "organization chart plugin based on ES6",
   "main": "src/orgchart.js",
