@@ -2,7 +2,7 @@
   "name": "orgchart",
   "version": "0.0.2",
   "description": "organization chart plugin based on ES6",
-  "main": "src/orgchart.js",
+  "main": "build/orgchart.min.js",
   "scripts": {},
   "devDependencies": {
     "babel-core": "^6.18.2",

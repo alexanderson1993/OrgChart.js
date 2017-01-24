@@ -6,7 +6,6 @@ logs
 node_modules
 
 # build files
-build
 
 # assets folder of demo
 demo/js
